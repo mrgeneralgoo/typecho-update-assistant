@@ -27,7 +27,7 @@ Don't worry. The update operation follows [the official update guide](http://doc
 
 You can [create an issue](https://github.com/mrgeneralgoo/typecho-update-assistant/issues/new)
 
-####  Blog
+##  Blog
 
 https://www.chengxiaobai.cn/
 
@@ -52,12 +52,12 @@ https://www.chengxiaobai.cn/
 
 ## 使用
 
-3. 设置是否升级到 develop 版本(默认为 true)
+3. 设置是否升级到 developer 版本(默认为 true)
 4. 在控制面板执行升级操作
 
 ### 报告问题
 
 [你可以直接点击这里提出你的问题](https://github.com/mrgeneralgoo/typecho-update-assistant/issues/new)
 
-#### 我的博客
+## 我的博客
 https://www.chengxiaobai.cn/
