@@ -42,8 +42,8 @@ https://www.chengxiaobai.cn/
 ## 依赖
 
 1. 插件目录有可写权限
-2. zip 拓展
-3. curl 拓展 / 设置 `allow_url_fopen = 1` 在你的 php.ini 中
+2. zip 扩展
+3. curl 扩展 / 设置 `allow_url_fopen = 1` 在你的 php.ini 中
 
 ## 安装
 
