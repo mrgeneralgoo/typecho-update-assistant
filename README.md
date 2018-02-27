@@ -9,7 +9,7 @@ Don't worry. The update operation follows [the official update guide](http://doc
 ## Requires
 
 1. Plugin directory has writable permissions
-2. zlib extension
+2. zip extension
 3. curl extension / Set `allow_url_fopen = 1` in your php.ini
 
 
@@ -42,7 +42,7 @@ https://www.chengxiaobai.cn/
 ## 依赖
 
 1. 插件目录有可写权限
-2. zlib 拓展
+2. zip 拓展
 3. curl 拓展 / 设置 `allow_url_fopen = 1` 在你的 php.ini 中
 
 ## 安装

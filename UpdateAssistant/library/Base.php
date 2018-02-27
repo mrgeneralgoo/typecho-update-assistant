@@ -22,8 +22,8 @@ abstract class Base
 
     public function __construct()
     {
-        if (!extension_loaded('zlib')) {
-            throw new Exception('Not found zlib extension!');
+        if (!extension_loaded('zip')) {
+            throw new Exception('Not found zip extension!');
         }
 
         if (function_exists('curl_exec')) {
