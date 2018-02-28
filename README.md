@@ -52,8 +52,8 @@ https://www.chengxiaobai.cn/
 
 ## 使用
 
-3. 设置是否升级到 developer 版本(默认为 true)
-4. 在控制面板执行升级操作
+1. 设置是否升级到 developer 版本(默认为 true)
+2. 在控制面板执行升级操作
 
 ### 报告问题
 
