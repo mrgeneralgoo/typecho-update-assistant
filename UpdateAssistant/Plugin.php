@@ -4,7 +4,7 @@
  *
  * @package UpdateAssistant
  * @author  mrgeneral
- * @version 1.0.0
+ * @version 1.0.1
  * @link    https://www.chengxiaobai.cn
  */
 
@@ -23,7 +23,10 @@ class UpdateAssistant_Plugin implements Typecho_Plugin_Interface
      */
     public static function deactivate()
     {
-        // TODO: Implement deactivate() method.
+        Helper::removePanel(1, 'UpdateAssistant/Start.php');
+
+        Helper::removeRoute('version_latest');
+        Helper::removeRoute('version_process');
     }
 
     public static function config(Typecho_Widget_Helper_Form $form)
