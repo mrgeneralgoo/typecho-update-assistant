@@ -16,7 +16,8 @@ Don't worry. The update operation follows [the official update guide](http://doc
 ## Installation
 
 1. [Download the plugin](https://github.com/mrgeneralgoo/typecho-update-assistant/archive/master.zip)
-2. Enable this plugin
+2. Rename the folder name to "UpdateAssistant"
+3. Enable this plugin
 
 ## Usage
 
@@ -48,7 +49,8 @@ https://www.chengxiaobai.cn/
 ## 安装
 
 1. [下载这个插件](https://github.com/mrgeneralgoo/typecho-update-assistant/archive/master.zip)
-2. 添加到你的项目中并启用它
+2. 将文件夹名称修改为 "UpdateAssistant"
+3. 添加到你的项目中并启用它
 
 ## 使用
 
